@@ -59,3 +59,5 @@ C:\Users\JuliaNdiamoi\source\repos\JuliaEf\JuliaEf\obj\Debug\net6.0\refint\Julia
 C:\Users\JuliaNdiamoi\source\repos\JuliaEf\JuliaEf\obj\Debug\net6.0\JuliaEf.pdb
 C:\Users\JuliaNdiamoi\source\repos\JuliaEf\JuliaEf\obj\Debug\net6.0\JuliaEf.genruntimeconfig.cache
 C:\Users\JuliaNdiamoi\source\repos\JuliaEf\JuliaEf\obj\Debug\net6.0\ref\JuliaEf.dll
+C:\Users\JuliaNdiamoi\source\repos\JuliaEf\JuliaEf\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\JuliaNdiamoi\source\repos\JuliaEf\JuliaEf\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
